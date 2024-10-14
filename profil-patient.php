@@ -33,4 +33,5 @@ else {
 }
 ?>
 
+<a href="modification-patient.php?id=<?= $patient['id']; ?>">Modifier le patient</a>
 <a href="liste-patients.php">Retour à la liste des patients</a>
